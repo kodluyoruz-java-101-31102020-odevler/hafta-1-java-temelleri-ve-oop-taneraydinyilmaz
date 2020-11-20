@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
+		//
 //		Aþaðýdaki görüntüyü konsol ekranýna yazdýran algoritmayý tasarlayýnýz.
 //		
 //		*
