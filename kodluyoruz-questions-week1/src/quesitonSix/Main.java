@@ -1,7 +1,7 @@
 package quesitonSix;
 
 public class Main {
-
+	//
 	/*
 	 * sorunun tamamý: PDFDocument isminde bir sýnýf yaratýn. Ardýndan, WordDocument
 	 * isminde bir sýnýf tasarlayýn. Bu iki sýnýf içinde String body = ""; isminde

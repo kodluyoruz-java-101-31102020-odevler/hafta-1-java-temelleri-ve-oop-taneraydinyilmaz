@@ -2,7 +2,7 @@ package quesitonSix;
 
 public interface DocumentInterface {
 
-	
+	//
 	//Ayný fonksiyonu kullanan iki sýnýfýn özelliðini burada tanýmladým.
 	//ve o sýnýflarda bu fonksiyonu ezdim(Override).
 	

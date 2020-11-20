@@ -1,7 +1,7 @@
 package quesitonSix;
 
 public class Printer {
-	
+	//
 	//Printer isminde bir sýnýf tanýmlayýn. 
 	//"printPDFDocument" isminde PDF dokümanýna ait "body" bilgisini konsol ekrana yazdýran bir metot tanýmlayýn.
 	//Ayný þekilde "printWordDocument" isminde Word dokümanýný konsol ekrana yazdýran bir metot tanýmlayýn. 

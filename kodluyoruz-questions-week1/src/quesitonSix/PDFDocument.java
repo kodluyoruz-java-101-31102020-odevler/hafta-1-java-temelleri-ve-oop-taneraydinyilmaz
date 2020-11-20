@@ -1,7 +1,7 @@
 package quesitonSix;
 
 public class PDFDocument implements DocumentInterface{
-	
+	//
 	// PDFDocument isminde bir sýnýf yaratýn.
 	//sýnýf içinde String body = ""; 
 	//Tanýmlanan bu "body" isimli deðiþkeninin tutacaðý veriyi kurucu metot vasýtasýyla gönderin. 
